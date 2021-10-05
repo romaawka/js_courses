@@ -1,0 +1,106 @@
+body{
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.all{
+    margin: auto;
+    width:1000px;
+}
+.img-top{
+    width: 1000px;
+    height: 350px;
+    
+}
+.text1{
+    font-size: 33px;
+}
+.text2{
+    font-size: 60px;
+}
+.text3{
+    font-size: 15px;
+}
+.text4{
+    font-size: 39px;
+    margin-top: 15px;
+    display: flex;
+    justify-content: center;
+}
+.text{
+    font-size: 39px;
+    margin-top: 20px;
+    
+}
+.text5{
+    color: orange;
+    font-size: 18px;
+}
+.text6{
+    color: rgb(167, 167, 167);
+    margin-top: 10px;
+    font-size: 12px;
+}
+.but{
+    margin-left: 4px;
+}
+.imgbot{
+    width: 1000px;
+    height: 350px;
+}
+.allbox{
+    display: flex;
+    height: 30%;
+}
+.box1{
+    border: 2px solid black;
+    width: 30%;
+    margin: 5px;
+    box-shadow: 0 1px 6px;
+    border-radius: 5px;
+   
+    
+}
+
+.box2{
+    border: 2px solid black;
+    width: 30%;
+    margin: 5px;
+    box-shadow: 0 1px 6px;
+    border-radius: 5px;
+   
+}
+.box3{
+    border: 2px solid black;
+    width: 30%;
+   margin: 5px;
+   box-shadow: 0 1px 6px;
+   border-radius: 5px;
+}
+.inbox1,.inbox2,.inbox3{
+    padding: 10px;
+}
+form{
+    display: flex;
+    justify-content: center;
+}
+.vse{
+    border: 1px solid black;
+    box-shadow: 0 3px 8px;
+    border-radius: 10px;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+.inp1{
+    width: 95%;
+    height: 20px;
+    outline: none;
+    margin-bottom: 5px;
+}
+.inp2{
+    width: 95%;
+    height: 20px;
+ 
+    margin-bottom: 5px;
+}
+.file{
+    margin-bottom: 5px;
+}
