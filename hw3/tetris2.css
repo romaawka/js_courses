@@ -58,8 +58,12 @@
 .black1{
     margin-top: -363px;
     margin-left: 120px;
-    
+    transition: 0.9s;
+    position: absolute;
+   
 }
+.black1:hover{margin-top: -245px;}
+
 .black{
     background-color:#7F8082;
     margin-top: 14px;
@@ -74,10 +78,13 @@
     margin-top: 5px
 }
 .red1{
-    margin-top: -2px;
+    margin-top: -176px;
     margin-left: 242px;
+    position: absolute;
+    transition: 0.7s;
     
 }
+.red1:hover{margin-top: -118px;}
 .red{
     background-color: #FF0300;
 }
@@ -85,7 +92,7 @@
     display: inline-block;
 }
 .purpul1{
-    margin-top: 8.3px;
+    margin-top: -56.3px;
     margin-left: 302px;
 }
 .purpul{
@@ -94,3 +101,10 @@
 .h1{
     display: inline-block;
 }
+
+
+
+
+
+
+
