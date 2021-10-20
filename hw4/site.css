@@ -1,15 +1,17 @@
 *,
 *::after,
 *::before {
-  margin: 0;
-  padding: 0;
-  border: 0;
+    margin: 0;
+    padding: 0;
+    border: 0;
 }
-body{
+
+body {
     font-family: 'Noto Sans Mono', monospace;
-font-family: 'Ubuntu', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
 }
-.topbox{
+
+.topbox {
     width: 100%;
     height: 70px;
     background-color: yellow;
@@ -17,7 +19,8 @@ font-family: 'Ubuntu', sans-serif;
     justify-content: center;
     align-items: center;
 }
-.greenbox{
+
+.greenbox {
     width: 100%;
     height: 197px;
     background-color: #1ABC9C;
@@ -25,103 +28,124 @@ font-family: 'Ubuntu', sans-serif;
     justify-content: center;
     align-items: center;
 }
-.greenboxtext{
+
+.greenboxtext {
     color: white;
-    
+
 }
-.text1{
+
+.text1 {
     margin-left: -15px;
     font-size: 35px;
 }
-.blacktape{
+
+.blacktape {
     width: 100%;
     height: 40px;
     background-color: #333333;
 }
-.link{
+
+.link {
     padding: 10px;
-    background-color:#333333 ;
+    background-color: #333333;
     color: white;
     width: 3%;
     height: 100%;
     font-family: 'Noto Sans Mono', monospace;
     font-family: 'Ubuntu', sans-serif;
-    
+
 }
-.twoboxes{
-    display:flex;
+
+.twoboxes {
+    display: flex;
 }
-.boxleft{
-    
+
+.boxleft {
+
     width: 35%;
     height: 760px;
     background-color: #F1F1F1;
 }
-.boxright{
-    
+
+.boxright {
+
     width: 65%;
     height: 745px;
 }
-.inleftbox{
+
+.inleftbox {
     margin-top: 20px;
     margin-left: 22px;
     width: 85%;
     height: 640px;
 }
-.textinleftbox{
+
+.textinleftbox {
     margin-bottom: 20px;
     font-size: 13px;
 }
-.textinleftbox2{
+
+.textinleftbox2 {
     font-size: 13px;
 }
-.bigplace1{
+
+.bigplace1 {
     margin-top: 10px;
     width: 100%;
     height: 155px;
     background-color: #AAAAAA;
 }
-label{
+
+label {
     margin: 20px;
     margin-top: 20px;
     font-size: 14px;
 }
-.textinleftbox3{
+
+.textinleftbox3 {
     margin-top: 10px;
 }
-.textinleftbox4{
+
+.textinleftbox4 {
     margin-top: 15px;
     font-size: 20px;
 }
-.bigplace2{
+
+.bigplace2 {
     margin-top: 15px;
     width: 100%;
     height: 53px;
     background-color: #AAAAAA;
 }
-.img{
+
+.img {
     margin-top: -5px;
     font-size: 14px;
     margin-left: 16px;
 }
-.inrightbox{
+
+.inrightbox {
     margin-top: 20px;
     margin-left: 22px;
     width: 85%;
     height: 645;
 }
-.textinrightbox2{
+
+.textinrightbox2 {
     font-size: 13px;
     margin-top: 10px;
 }
-.textinrightbox3{
+
+.textinrightbox3 {
     margin-top: 20px;
     margin-bottom: 10px;
 }
-.textinrightbox4{
+
+.textinrightbox4 {
     margin-bottom: 30px;
 }
-.botbox{
+
+.botbox {
     width: 100%;
     height: 60px;
     background-color: #DDDDDD;
