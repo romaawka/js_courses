@@ -82,9 +82,10 @@
     margin-left: 242px;
     position: absolute;
     transition: 0.7s;
+
     
 }
-.red1:hover{margin-top: -118px;}
+.red1:hover{margin-top: -118px}
 .red{
     background-color: #FF0300;
 }
