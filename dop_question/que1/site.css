@@ -1,0 +1,261 @@
+*,
+*::after,
+*::before {
+  margin: 0;
+  padding: 0;
+  border: 0;
+
+  
+}
+html{
+    height: 100%;
+}
+body{
+    font-family: 'Noto Sans Mono', monospace;
+font-family: 'Ubuntu', sans-serif;
+height: 100%;
+}
+.img1{
+    position: relative;
+    width: 100%;
+    
+    opacity: 0.3;
+}
+.purpule_box1{
+    width: 100%;
+    height: 87.5%;
+    background-color: rgb(43, 2, 119);
+}
+.tajam_buts{
+    display: flex;
+    align-items: center;
+}
+.tajam{
+    position: absolute;
+    top: 0;
+    font-size: 40px;
+    color: #04D7D0;
+    margin-left: 30%;
+    font-family: 'Noto Sans Mono', monospace;
+    font-family: 'Ubuntu', sans-serif;
+    font-family: 'Zen Kaku Gothic New', sans-serif;
+}
+.all_buts{
+    margin-left: 300px;
+}
+.but{
+    position: absolute;
+    top: 1.5%;
+    right: 44%;
+    padding: 8px;
+    color: white;
+    cursor: pointer;
+    font-size: 16px;
+    transition: 0.3s;
+}
+.but2{
+    position: absolute;
+    top: 1.5%;
+    right:39%;
+    padding: 8px;
+    color: white;
+    cursor: pointer;
+    font-size: 16px;
+    transition: 0.3s;  
+}
+.but3{
+    position: absolute;
+    top: 1.5%;
+    right: 32%;
+    padding: 8px;
+    color: white;
+    cursor: pointer;
+    font-size: 16px;
+    transition: 0.3s;  
+}
+.but4{
+    position: absolute;
+    top: 1.5%;
+    right: 27%;
+    padding: 8px;
+    color: white;
+    cursor: pointer;
+    font-size: 16px;
+    transition: 0.3s;  
+}
+.but5{
+    position: absolute;
+    top: 1.5%;
+    right: 20%;
+    padding: 8px;
+    color: white;
+    cursor: pointer;
+    font-size: 16px;
+    transition: 0.3s;  
+}
+.but6{
+    position: absolute;
+    top: 1.5%;
+    right: 14%;
+    padding: 8px;
+    color: white;
+    cursor: pointer;
+    font-size: 16px;
+    transition: 0.3s;  
+}
+.but:hover{
+    color: rgb(50, 224, 255);
+}
+.but2:hover{
+    color: rgb(50, 224, 255);
+}
+.but3:hover{
+    color: rgb(50, 224, 255);
+}
+.but4:hover{
+    color: rgb(50, 224, 255);
+}
+.but5:hover{
+    color: rgb(50, 224, 255);
+}
+.but6:hover{
+    color: rgb(50, 224, 255);
+}
+.text_in_purpulebox{
+    position: absolute;
+    top: 25%;
+    left: 35%;
+    color: white;
+    font-size: 40px;
+    font-family: 'Noto Sans Mono', monospace;
+    font-family: 'Noto Serif Display', serif;
+    font-family: 'Ubuntu', sans-serif;
+    font-family: 'Zen Kaku Gothic New', sans-serif;
+}
+.miniborder{
+    border: 1px solid rgb(50, 224, 255) ;
+    width: 65px;
+    height: 0px;
+    position: absolute;
+    top: 33%;
+    left: 48%;
+}
+.lorenipsum{
+    position: absolute;
+    top: 36%;
+    left: 27%;
+    color: white;
+
+}
+.lorenipsum2{
+    position: absolute;
+    top: 39.5%;
+    left: 32.5%;
+    color: white;
+
+}
+.lorenipsum3{
+    position: absolute;
+    top: 43%;
+    left: 36%;
+    color: white;
+}
+.outline{
+    border: 2px solid rgb(50, 224, 255);
+    border-radius: 3px;
+    position: absolute;
+    top: 53%;
+    left: 46.7%;
+    color: rgb(50, 224, 255);
+    padding: 10px;
+    transition: 0.2s;
+}
+.outline:hover{
+    
+    color:rgb(227, 251, 255) ;
+    
+    
+}
+.dots{
+    display: flex;
+
+}
+.dot{
+    border: 0.2px solid white;
+    border-radius: 30000px;
+    padding: 4.5px;
+    position: absolute;
+    top: 74%;
+    left: 48%;
+    transition: 0.2s;
+}
+.dot2{
+    border: 0.2px solid white;
+    border-radius: 30000px;
+    padding: 4.5px;
+    position: absolute;
+    top: 74%;
+    left: 49%;
+}
+.dot3{
+    border: 0.2px solid white;
+    border-radius: 30000px;
+    padding: 4.5px;
+    position: absolute;
+    top: 74%;
+    left: 50%;
+}
+.dot4{
+    border: 0.2px solid white;
+    border-radius: 30000px;
+    padding: 4.5px;
+    position: absolute;
+    top: 74%;
+    left: 51%;
+}
+.dot:hover{
+    background-color: rgb(50, 224, 255);
+    border: 0.2px solid rgb(50, 224, 255);
+}
+.dot2:hover{
+    background-color: rgb(50, 224, 255);
+    border: 0.2px solid rgb(50, 224, 255);
+}
+.dot3:hover{
+    background-color: rgb(50, 224, 255);
+    border: 0.2px solid rgb(50, 224, 255);
+}
+.dot4:hover{
+    background-color: rgb(50, 224, 255);
+    border: 0.2px solid rgb(50, 224, 255);
+}
+.white_box1{
+    width: 100%;
+    height: 600px;
+}
+.img_text{
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.text4{
+    margin-left: 150px;
+    color: #726E79;
+}
+.text3{
+    margin-left: 150px;
+    color: #3F3A4A;
+}
+.outline2{
+    border: 2px solid rgb(50, 224, 255);
+    border-radius: 3px;
+    width: 100px;
+    margin-left: 150px;
+    color: rgb(50, 224, 255);
+    padding: 10px;
+    transition: 0.2s;
+}
+
+

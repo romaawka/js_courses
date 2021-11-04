@@ -1,0 +1,111 @@
+*,
+*::after,
+*::before {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+.box1,.box2,.box3{
+    margin: auto;
+}
+.box1{
+    border: 3px solid black;
+     width: 503px;
+      height: 503px;
+      padding: 5px;    
+  }
+  .box2{
+      border: 3px solid green;
+      width: 497px;
+      height: 497px;  
+  
+  }
+  .box3{
+      border: 3px solid red;
+      width: 481px;
+      height: 481px;
+      margin: 5px;      
+  }
+.minibox{
+    border: 3px solid black;
+    border-radius: 3px;
+    background-color: #ABFF2F;
+    width: 40.4px;
+    height: 40.4px;
+    margin: 5px;
+    
+}
+.green{
+    margin-top: 373px;
+}
+.a2,.a3,.a4{
+    
+   display: inline-block;
+}
+.a1{
+    margin-left: 65.5px;
+}
+.halfred1{
+    margin-top: -252px;
+    margin-left: 180px;
+}
+.halfred{
+    background-color:#F78271;
+    margin-top: 14px;
+   
+}
+.black1{
+    margin-top: -363px;
+    margin-left: 120px;
+    transition: 0.9s;
+    position: absolute;
+   
+}
+.black1:hover{margin-top: -245px;}
+
+.black{
+    background-color:#7F8082;
+    margin-top: 14px;
+}
+.b1{
+    display: inline-block;
+}
+.c1{
+    margin-right: -115px;
+}
+.c2{
+    margin-top: 5px
+}
+.red1{
+    margin-top: -176px;
+    margin-left: 242px;
+    position: absolute;
+    transition: 0.7s;
+
+    
+}
+.red1:hover{margin-top: -118px}
+.red{
+    background-color: #FF0300;
+}
+.d1{
+    display: inline-block;
+}
+.purpul1{
+    margin-top: -56.3px;
+    margin-left: 302px;
+}
+.purpul{
+    background-color: #653599;
+}
+.h1{
+    display: inline-block;
+}
+
+
+
+
+
+
+

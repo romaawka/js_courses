@@ -1,0 +1,57 @@
+html {
+    height: 100%;
+}
+
+body {
+    height: 100%;
+}
+
+.all {
+    height: 2000px;
+    display: flex;
+    justify-content: center;
+}
+
+.line1,.line {
+    display: flex;
+}
+
+.static_box {
+    position: fixed;
+    top: 200px;
+}
+
+.siribox {
+    background-color: rgb(184, 184, 184);
+    margin: 2px;
+    width: 50px;
+    height: 50px;
+}
+
+.siribox_hiden {
+    visibility: hidden;
+    background-color: rgb(184, 184, 184);
+    border: 2px solid rgb(255, 255, 255);
+    width: 50px;
+    height: 50px;
+}
+
+.skroll_box {
+    position: absolute;
+    top: 500px;
+}
+
+.skrl {
+    background-color: rgb(0, 0, 0);
+    margin: 2px;
+    width: 50px;
+    height: 50px;
+}
+
+.skrl_hiden {
+    visibility: hidden;
+    background-color: rgb(0, 0, 0);
+    margin: 2px;
+    width: 50px;
+    height: 50px;
+} 
