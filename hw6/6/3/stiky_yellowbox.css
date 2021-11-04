@@ -1,0 +1,11 @@
+body,html{
+    height: 100%;
+    background: linear-gradient(to right,#2C3D50,#4CA0AE);
+}
+.block{
+    border: 2px solid greenyellow;
+    background-color: greenyellow;
+    height: 30px;
+    position: sticky;
+    top: 0;
+}

@@ -1,0 +1,32 @@
+body,html{
+    height: 100%;
+    background: linear-gradient(to right,#2C3D50,#4CA0AE);
+}
+.but{
+    border:3px  solid rgb(14, 14, 77);
+    background: linear-gradient(greenyellow,greenyellow);
+    color: rgb(14, 14, 77);
+    border-radius: 15px;
+    padding: 20px;
+    text-decoration: none;
+    font-size: 20px;
+    width: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+    transition: 0.3s all;
+}
+.but:hover{
+    padding: 30px;
+    font-size: 25px;
+    background: linear-gradient(yellow,greenyellow);
+    
+}
+.all{
+    margin-top: 50px;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

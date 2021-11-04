@@ -1,0 +1,10 @@
+.box{
+    border:1px solid black;
+    width: 350px;
+    height: 200px;
+    box-sizing: border-box;
+    
+}
+.box:hover{
+    border:3px solid black;
+}

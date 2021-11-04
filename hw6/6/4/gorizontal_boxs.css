@@ -1,0 +1,22 @@
+html,body{
+    height: 99%;
+    background: linear-gradient(to right,#2C3D50,#4CA0AE);
+}
+
+.all{
+    display: flex;
+    align-items: center;
+    height: 99%;
+    
+}
+.box{
+    width: 190px;
+    height: 100px;
+    border: solid;
+    margin: 8px;
+    transition: 0.3s;
+}
+.box:hover{
+    width: 500px;
+    height: 350px;
+}
