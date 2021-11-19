@@ -23,7 +23,7 @@ height: 100%;
 }
 .purpule_box1{
     width: 100%;
-    height: 87.5%;
+    height: 90.5%;
     background-color: rgb(43, 2, 119);
 }
 .tajam_buts{
@@ -257,5 +257,28 @@ height: 100%;
     padding: 10px;
     transition: 0.2s;
 }
+.box3{
+    background-color: rgb(43, 2, 119);
+    position: relative;
+    height: 655px;
+}
+.circle{
+    border: 3px solid white;
+    padding: 50px;
+    border-radius:13123px ;
+    position: absolute;
+    top: 45%;
+    left: 45%;
+}
+.text_inbox3{
+    font-size: 25px;
+    position: absolute;
+    color: white;
+    top: 65%;
+    left: 42%;
+}
+
+    
+
 
 
